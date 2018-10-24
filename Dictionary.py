@@ -5,3 +5,4 @@ print(somDist)
 print(somDist["bharat"])
 for i in somDist:
     print(i)
+    print(i.capitalize())
